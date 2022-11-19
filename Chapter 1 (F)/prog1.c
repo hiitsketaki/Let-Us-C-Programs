@@ -1,6 +1,7 @@
 /*
 Conversion from Fahrenheit to Centigrade
 */
+
 #include <stdio.h>
 
 int main()
