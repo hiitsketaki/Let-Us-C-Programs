@@ -1,3 +1,7 @@
+/*
+Calculate paper sizes from A0 to A8
+*/
+
 #include<stdio.h>
 
 int main()
