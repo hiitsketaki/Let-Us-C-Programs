@@ -1,3 +1,6 @@
+/*
+Calculate perimeter and area of a rectangle and a circle
+*/
 #include <stdio.h>
 #define pi 3.1415
 
